@@ -1,5 +1,5 @@
 # Classical Computer Science Problems in Python
-Estudo do livro "Classical Computer Science Problems in Python" de David Kopec, majoritariamente utilizando jupyter notebook
+Estudo do livro "Linear Algebra" de Jim Hefferson, majoritariamente utilizando jupyter notebook
 ## Estrutura
 Os arquivos estão organizados por capítulos, tal que cada capítulo é representado por uma pasta com subpastas contendo outros arquivos necessários
 ## Método
