@@ -7,3 +7,4 @@ O approach ao livro tem intuito educacional, com alterações verbais em alguns 
 ## Bibliotecas
 Conforme utilizadas, serão indicadas as instalações de determinadas bibliotecas
 ## 
+![image](https://github.com/thiagocaveglion/linear_algebra/assets/107949964/fb4ebe33-34a8-40b1-8fad-f60e094103ac)
