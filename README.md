@@ -1,4 +1,4 @@
-# Classical Computer Science Problems in Python
+# Linear Algebra
 Estudo do livro "Linear Algebra" de Jim Hefferson, majoritariamente utilizando jupyter notebook
 ## Estrutura
 Os arquivos estão organizados por capítulos, tal que cada capítulo é representado por uma pasta com subpastas contendo outros arquivos necessários
